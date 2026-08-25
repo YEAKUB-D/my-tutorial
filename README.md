@@ -2,7 +2,8 @@
 
 A reference tutorial demonstrating how to run and use **My Tutorial Application**.
 
-![Application preview](docs/assets/demo.png)
+<img width="1113" height="583" alt="Dummy" src="https://github.com/user-attachments/assets/7e684c74-d9a4-477b-89fc-f4a25e829cff" />
+
 
 ## Components
 
