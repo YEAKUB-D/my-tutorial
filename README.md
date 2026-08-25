@@ -47,7 +47,7 @@ docker --version
 
 All components run on WSL.
 
-### 1) Run the PAL
+### 1) Run the PAL on the PC
 
 ```bash
 cd /work/yoriito-tutorial/ref_pal
