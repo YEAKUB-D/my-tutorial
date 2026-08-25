@@ -7,22 +7,14 @@ A tutorial for running the Yoriito reference application, including the PAL, Hea
 
 ## Components
 
-- [frontend](./frontend)  
-  User interface for the application.
+- `ref_pal`  
+  Reference PAL (Platform Abstraction Layer) implementation.
 
-- [backend](./backend)  
-  API and business logic.
+- `ref_app`  
+  Reference HeadlessApp demonstrating the core functionality.
 
-- [database](./database)  
-  Stores application data.
-
-## Getting Started
-
-Run the components in this order:
-
-1. Database
-2. Backend
-3. Frontend
+- `ref_ui`  
+  Reference user interface built with Flutter.
 
 ---
 
