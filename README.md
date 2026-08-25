@@ -17,6 +17,13 @@ A tutorial for running the Yoriito reference application, including the PAL, Hea
   Reference user interface built with Flutter.
 
 ---
+## Getting Started
+
+Run the components in this order:
+
+1. PAL (`ref_pal`)
+2. HeadlessApp (`ref_app`)
+3. UI (`ref_ui`)
 
 # How to Run
 
