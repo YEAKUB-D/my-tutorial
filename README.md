@@ -37,11 +37,12 @@ Install the following before starting:
 - Python 3.11+ *(if required)*
 
 Check that they are installed:
-
 ```bash
 git --version
 node --version
 docker --version
+```
+
 ## Run on WSL
 
 All components run on WSL.
