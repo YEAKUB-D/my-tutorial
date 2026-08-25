@@ -55,3 +55,16 @@ npm install
 ./init_pal.sh
 npx electron . --no-sandbox
 ```
+
+---
+
+### 2) Run the HeadlessApp
+
+Open a new WSL terminal and run:
+
+```bash
+cd /work/yoriito-tutorial/ref_app
+cmake -S . -B build
+cmake --build build -j
+./build/ref_app
+```
