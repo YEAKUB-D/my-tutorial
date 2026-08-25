@@ -42,3 +42,15 @@ Check that they are installed:
 git --version
 node --version
 docker --version
+## Run on WSL
+
+All components run on WSL.
+
+### 1) Run the PAL
+
+```bash
+cd /work/yoriito-tutorial/ref_pal
+npm install
+./init_pal.sh
+npx electron . --no-sandbox
+```
