@@ -81,3 +81,7 @@ flutter clean
 flutter pub get
 flutter run -d linux
 ```
+
+## Run on Yocto
+
+> `ref_pal` does not support Raspberry Pi directly. Run `ref_pal` on your PC first, then connect it to a target device such as a Raspberry Pi.
