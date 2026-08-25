@@ -68,3 +68,16 @@ cmake -S . -B build
 cmake --build build -j
 ./build/ref_app
 ```
+
+---
+
+### 3) Run the UI
+
+Open a new WSL terminal and run:
+
+```bash
+cd /work/yoriito-tutorial/ref_ui
+flutter clean
+flutter pub get
+flutter run -d linux
+```
