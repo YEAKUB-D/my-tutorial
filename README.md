@@ -2,7 +2,13 @@
 
 A tutorial for running the Yoriito reference application, including the PAL, HeadlessApp, and Flutter UI.
 
-<img width="1113" height="583" alt="Dummy" src="https://github.com/user-attachments/assets/7e684c74-d9a4-477b-89fc-f4a25e829cff" />
+
+
+https://github.com/user-attachments/assets/e2ed0d13-1b9c-4462-81a8-7f17ca401c1f
+
+
+
+
 
 
 ## Components
